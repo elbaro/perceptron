@@ -1,0 +1,9 @@
+[package]
+name = "svm"
+version = "0.1.0"
+authors = ["elbaro <<elbaro@users.noreply.github.com>>"]
+edition = "2018"
+
+[dependencies]
+nannou = "0.8.0"
+rand = "0.5.5"
